@@ -2,7 +2,7 @@
 
   <body>
     <menu name="Overview">
-      <item name="introduction" href="index.html"/>
+      <item name="Introduction" href="index.html"/>
       <item name="FAQ" href="faq.html"/>
     </menu>
     <menu ref="reports" inherit="bottom"/>
